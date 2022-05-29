@@ -6,9 +6,7 @@ Komentar paada Case 1 nomor 4 ada pada File Case1.js ( Bagian Komentar Paling Ba
 
 ## Penjelasan
 
-```
-Pada Case ini saya membuatnya menjadi file javascript ( Beserta Soalnya ) agar lebih simpel ( Typescript memerlukan Compiler untuk mentransalasikan menjadi javascript ) namun tetap tidak menghilangkan esensi utama dari Pertanyaan Tiap Case.
-```
+### Pada Case ini saya membuatnya menjadi file javascript ( Beserta Soalnya ) agar lebih simpel ( Typescript memerlukan Compiler untuk mentransalasikan menjadi javascript ) namun tetap tidak menghilangkan esensi utama dari Pertanyaan Tiap Case.
 
 ## Case 1
 
