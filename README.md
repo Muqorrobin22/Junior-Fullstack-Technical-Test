@@ -22,6 +22,4 @@ File Case2.js
 
 ## Case 3
 
-```
-This website name is [Mealapp](https://mealapp-by-robin.netlify.app/) created with vueJs. See repo in [Here](https://github.com/Muqorrobin22/mealapp-in-vuejs)
-```
+This website name is **[Mealapp](https://mealapp-by-robin.netlify.app/)** created with vueJs. See repo in **[Here](https://github.com/Muqorrobin22/mealapp-in-vuejs)**
